@@ -10,6 +10,9 @@ Projeto criado no evento ignite lab da Rocketseat.
 
 ## :books: Regras de negócio
 
+## :wrench: Tecnologias utilizadas
+* Nest
+
 
 ## :rocket: Rodando o projeto
 Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para iniciar o projeto:
@@ -68,16 +71,4 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
-## Test
-
-```bash
-# unit tests
-$ npm run test
-
-# e2e tests
-$ npm run test:e2e
-
-# test coverage
-$ npm run test:cov
-```
 
