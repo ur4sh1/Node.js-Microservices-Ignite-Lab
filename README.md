@@ -10,6 +10,7 @@ Projeto criado no evento ignite lab da Rocketseat.
 
 ## :books: Regras de negócio
 
+
 ## :wrench: Tecnologias utilizadas
 * Nest
 
@@ -26,6 +27,10 @@ npm i
 Executar o projeto
 ```
 npm run start:dev
+```
+Executar teste unitários
+```
+npm run test
 ```
 
 ## :wrench: Histórico de comandos
@@ -57,18 +62,3 @@ Instalando class-validator e class-transformer
 ```
 npm i class-validator class-transformer
 ```
-
-## Running the app
-
-```bash
-# development
-$ npm run start
-
-# watch mode
-$ npm run start:dev
-
-# production mode
-$ npm run start:prod
-```
-
-
